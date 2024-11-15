@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 # Set environment variables
 if "GROQ_API_KEY" not in os.environ:
-    os.environ["GROQ_API_KEY"] = "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"
+    os.environ["GROQ_API_KEY"] = "**"
 
 # Set USER_AGENT environment variable
 if "USER_AGENT" not in os.environ:
