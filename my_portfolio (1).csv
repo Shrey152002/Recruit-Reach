@@ -1,21 +1,21 @@
-"Techstack","Links"
-"React, Node.js, MongoDB","https://example.com/react-portfolio"
-"Angular,.NET, SQL Server","https://example.com/angular-portfolio"
-"Vue.js, Ruby on Rails, PostgreSQL","https://example.com/vue-portfolio"
-"Python, Django, MySQL","https://example.com/python-portfolio"
-"Java, Spring Boot, Oracle","https://example.com/java-portfolio"
-"Flutter, Firebase, GraphQL","https://example.com/flutter-portfolio"
-"WordPress, PHP, MySQL","https://example.com/wordpress-portfolio"
-"Magento, PHP, MySQL","https://example.com/magento-portfolio"
-"React Native, Node.js, MongoDB","https://example.com/react-native-portfolio"
-"iOS, Swift, Core Data","https://example.com/ios-portfolio"
-"Android, Java, Room Persistence","https://example.com/android-portfolio"
-"Kotlin, Android, Firebase","https://example.com/kotlin-android-portfolio"
-"Android TV, Kotlin, Android NDK","https://example.com/android-tv-portfolio"
-"iOS, Swift, ARKit","https://example.com/ios-ar-portfolio"
-"Cross-platform, Xamarin, Azure","https://example.com/xamarin-portfolio"
-"Backend, Kotlin, Spring Boot","https://example.com/kotlin-backend-portfolio"
-"Frontend, TypeScript, Angular","https://example.com/typescript-frontend-portfolio"
-"Full-stack, JavaScript, Express.js","https://example.com/full-stack-js-portfolio"
-"Machine Learning, Python, TensorFlow","https://example.com/ml-python-portfolio"
-"DevOps, Jenkins, Docker","https://example.com/devops-portfolio"
+Project_Title,Techstack,Description,Links,Client_Type,Project_Duration
+"E-Commerce Platform Modernization","React.js, Node.js, MongoDB, Redis, AWS EC2, Docker","Transformed legacy e-commerce system serving 50K+ users daily with modern microservices architecture, reducing page load times by 60% and increasing conversion rates by 25%.",https://github.com/atliq-portfolio/ecommerce-platform,Fortune 500 Retail,8 months
+"Healthcare Management System","Angular, .NET Core, SQL Server, Azure, SignalR","Built comprehensive patient management system for multi-location healthcare provider, streamlining operations for 200+ staff members and improving patient satisfaction by 40%.",https://github.com/atliq-portfolio/healthcare-system,Healthcare Provider,12 months
+"FinTech Mobile Banking App","React Native, Node.js, PostgreSQL, Redis, Kubernetes","Developed secure mobile banking application with biometric authentication, handling 10K+ transactions daily and achieving 99.9% uptime reliability.",https://github.com/atliq-portfolio/mobile-banking,Financial Services,10 months
+"Supply Chain Analytics Platform","Python, Django, TensorFlow, PostgreSQL, Docker, Kafka","Created AI-powered supply chain optimization platform reducing inventory costs by 30% and improving delivery accuracy by 45% for logistics company.",https://github.com/atliq-portfolio/supply-chain-ai,Logistics Enterprise,14 months
+"Real Estate CRM Solution","Vue.js, Spring Boot, MySQL, Elasticsearch, AWS","Built comprehensive CRM system for real estate agency managing 5000+ properties, increasing agent productivity by 50% and lead conversion by 35%.",https://github.com/atliq-portfolio/realestate-crm,Real Estate Agency,6 months
+"IoT Manufacturing Dashboard","React, Python Flask, InfluxDB, Grafana, MQTT","Developed real-time monitoring dashboard for smart factory, reducing equipment downtime by 40% and optimizing production efficiency by 25%.",https://github.com/atliq-portfolio/iot-dashboard,Manufacturing Company,9 months
+"Educational LMS Platform","Laravel, PHP, MySQL, Vue.js, WebRTC","Created comprehensive learning management system supporting 10K+ students with video conferencing, assessments, and progress tracking capabilities.",https://github.com/atliq-portfolio/education-lms,Educational Institution,11 months
+"Food Delivery Mobile App","Flutter, Firebase, Google Maps API, Stripe","Built end-to-end food delivery application with real-time tracking, supporting 1000+ restaurants and 50K+ active users across multiple cities.",https://github.com/atliq-portfolio/food-delivery-app,Food Tech Startup,7 months
+"Enterprise HR Management","Java, Spring Boot, Oracle, Angular, Kafka","Developed scalable HR management system handling payroll, recruitment, and employee management for 5000+ employee enterprise organization.",https://github.com/atliq-portfolio/enterprise-hrms,Corporate Enterprise,15 months
+"AI-Powered Content Management","Python, FastAPI, OpenAI API, PostgreSQL, Redis","Built intelligent content management system with automated tagging, sentiment analysis, and content optimization increasing engagement by 60%.",https://github.com/atliq-portfolio/ai-cms,Media Company,8 months
+"Cryptocurrency Trading Platform","Node.js, TypeScript, WebSocket, Redis, PostgreSQL","Developed high-frequency trading platform handling 100K+ trades daily with real-time market data and advanced charting capabilities.",https://github.com/atliq-portfolio/crypto-trading,FinTech Startup,12 months
+"Smart City Traffic Management","Python, TensorFlow, OpenCV, MongoDB, Flask","Created AI-based traffic optimization system reducing congestion by 35% and improving traffic flow efficiency for metropolitan city.",https://github.com/atliq-portfolio/smart-traffic,Government Agency,16 months
+"Social Media Analytics Tool","React, Python, Pandas, Elasticsearch, D3.js","Built comprehensive social media analytics platform providing insights for 500+ brands with sentiment analysis and trend prediction.",https://github.com/atliq-portfolio/social-analytics,Marketing Agency,9 months
+"Inventory Management System","Django, PostgreSQL, Celery, Redis, Bootstrap","Developed multi-warehouse inventory system with barcode scanning, automated reordering, and real-time stock tracking for retail chain.",https://github.com/atliq-portfolio/inventory-management,Retail Chain,7 months
+"Telemedicine Platform","React, Node.js, WebRTC, MongoDB, Stripe","Created HIPAA-compliant telemedicine platform enabling 1000+ consultations monthly with video calls, prescription management, and secure messaging.",https://github.com/atliq-portfolio/telemedicine,Healthcare Startup,10 months
+"Event Management System","Ruby on Rails, PostgreSQL, Sidekiq, Stripe, AWS","Built comprehensive event management platform handling ticket sales, attendee management, and live streaming for events up to 10K participants.",https://github.com/atliq-portfolio/event-management,Event Management Company,8 months
+"Business Intelligence Dashboard","Power BI, SQL Server, Python, Tableau, Azure","Created executive dashboard with real-time KPI tracking, predictive analytics, and automated reporting reducing decision-making time by 50%.",https://github.com/atliq-portfolio/bi-dashboard,Consulting Services,6 months
+"Gaming Leaderboard API","Go, Redis, PostgreSQL, Kubernetes, gRPC","Developed high-performance gaming API handling 1M+ concurrent users with real-time leaderboards and achievement systems.",https://github.com/atliq-portfolio/gaming-api,Gaming Company,9 months
+"Document Management System","ASP.NET Core, Elasticsearch, Azure Blob, SignalR","Built enterprise document management with OCR, full-text search, and collaborative editing supporting 50TB+ document storage.",https://github.com/atliq-portfolio/document-management,Legal Firm,11 months
+"Machine Learning Pipeline","Python, Apache Airflow, MLflow, Kubernetes, TensorFlow","Implemented end-to-end ML pipeline for predictive maintenance reducing equipment failures by 45% and maintenance costs by 30%.",https://github.com/atliq-portfolio/ml-pipeline,Manufacturing Enterprise,13 months
